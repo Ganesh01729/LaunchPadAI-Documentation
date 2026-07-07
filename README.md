@@ -27,10 +27,11 @@ LaunchPadAI-Doc/
 ├── 3. Project Design
 ├── 4. Project Planning
 ├── 5. Project Development
+|    └── Source code
 ├── 6. Project Testing
 ├── 7. Project Documentation
 ├── 8. Project Demonstration
-└── Source code
+
 ```
 
 ---
@@ -138,6 +139,6 @@ Rajiv Gandhi University of Knowledge Technologies (RGUKT)
 
 ---
 
-## 📄 License
+## License
 
 This project was developed for academic and educational purposes.
